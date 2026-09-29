@@ -22,6 +22,10 @@ keywords = [
 name = "Rongjie Huang"
 email = "rongjie@mit.edu"
 
+[[task.authors]]
+name = "Xiaoshan Xu"
+email = "xiaoshan@mit.edu"
+
 [metadata]
 organization = "MIT"
 category = "Infra & Systems"
